@@ -5,9 +5,9 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text:  "Projects"
+    - text: "Projects"
       href: projects.html
-    - text:  "Publications"
+    - text: "Publications"
       href: publications.html
   right:
     - icon: fa-envelope fa-lg

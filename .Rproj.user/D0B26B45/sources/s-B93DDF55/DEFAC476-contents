@@ -1,8 +1,10 @@
 ---
-title: "Projects"
+
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+# **M.S. Project at University of Florida**
 
