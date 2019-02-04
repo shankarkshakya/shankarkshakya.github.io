@@ -3,7 +3,6 @@
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-setwd("C:/Users/shankar/Desktop/shankarkshakya.github.io")
 ```
 
 ## Litte about me
