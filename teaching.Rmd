@@ -1,0 +1,11 @@
+---
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# **Plant pathology**
+
+I had the opportunity to TA plant pathology for two consecutive years at Oregon State University with [Dr. Ken Johnson](https://bpp.oregonstate.edu/people/johnson-ken)

@@ -1,0 +1,21 @@
+---
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# **Awards**
+
+Halse-Kentula Award 2019, Oregon State University <br>
+APS-Pacific Division meeting (2018), 3rd Place graduate student oral presentation <br>
+Anita Summers Travel Grant (2018), Botany and Plant Pathology department, Oregon State University <br>
+Plant Pathology Experiential Award (2018), American Phytopathological Society, USA <br>
+Cascadia R Conference Travel Award (2018), Portland, Oregon <br>
+Anita Summers Travel Grant (2017), Botany and Plant Pathology department, Oregon State University <br> 
+Anita Summers Travel Grant (2016), Botany and Plant Pathology department, Oregon State University <br>
+Florida Phytopathological  Society, 3rd Place Graduate Student Paper Competition (2013), Florida, USA <br>
+USAID-CIP fellowship (2012-2014), University of Florida, USA <br>
+Merit based undergraduate scholarship (2006-2010), Tribhuwan University, Nepal <br>
+
