@@ -15,6 +15,8 @@ navbar:
       href: awards.html
     - text: "Services"
       href: services.html
+    - text: "Photos"
+      href: photos.html
       
   right:
     - icon: fa-envelope fa-lg
@@ -23,6 +25,8 @@ navbar:
       href: http://github.com/shankarkshakya
     - icon: fa-twitter fa-lg
       href: https://twitter.com/shakya
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/shankar-kaji-shakya-30204455/
 
 output:
   html_document:

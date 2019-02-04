@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "1027836400",
     "id" : "4A2325F",
-    "lastKnownWriteTime" : 1549319140,
-    "last_content_update" : 1549319140180,
+    "lastKnownWriteTime" : 1549320956,
+    "last_content_update" : 1549320956080,
     "path" : "C:/Users/shankar/Desktop/shankarkshakya.github.io/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
-        "cursorPosition" : "16,49",
-        "scrollLine" : "15"
+        "cursorPosition" : "26,29",
+        "scrollLine" : "12"
     },
     "relative_order" : 2,
     "source_on_save" : false,
