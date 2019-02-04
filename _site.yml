@@ -1,8 +1,14 @@
-name: "my-website"
+name: my-website
 navbar:
-  title: "My Website"
-left:
-  - text: "Home"
-href: index.html
-- text: "About"
-href: about.html
+  title: My Website
+  left:
+  - text: Home
+    href: index.html
+  - text: About
+    href: about.html
+output_dir: _site
+output:
+  html_document:
+    lib_dir: site_libs
+    self_contained: no
+
