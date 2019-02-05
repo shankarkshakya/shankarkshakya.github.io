@@ -19,6 +19,9 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -165,6 +168,101 @@ $(document).ready(function () {
 
 
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+  padding-left: 25px;
+  text-indent: 0;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
 
 
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
@@ -175,7 +273,7 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Shankar Kaji Shakya</a>
+      <a class="navbar-brand" href="index.html"></a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
@@ -239,11 +337,25 @@ $(document).ready(function () {
 </div>
 
 
-<hr />
-<hr />
 <div id="oregon-state-university" class="section level1">
 <h1><strong>Oregon State University</strong></h1>
-<p>My Ph.D dissertation work at OSU has focused primarily on oomycete pathogen <em>Phytopthora</em>.</p>
+<p>My Ph.D dissertation work at OSU has focused primarily on oomycete pathogen <em>Phytophthora</em>. This includes population genetics analyses of <em>P. infestans</em> at its center of origin using microsatellite markers to using whole genomes to understand the evolution of effector genes in clade 1c species of genus <em>Phytophthora</em>.</p>
+<div id="analysis-of-p.-infestans-population-from-mexico-using-microsatellite-markers" class="section level2">
+<h2>1. <strong>Analysis of <em>P. infestans</em> population from Mexico using microsatellite markers</strong></h2>
+<p>Microsatellites or simple sequence repreats (SSR) is probably the mostly widely used marker in any population genetic analyses however this is changing as the cost of sequencing has down. We performed analyses to describe the gradient in diversity as we move away from the center of diversity.</p>
+<p><img src="mexico_paper/Fig1.png" style="width:50%; border:3px solid; margin-left: 80px" align="center"></p>
+<p><img src="mexico_paper/Fig3.png" style="width:50%; border:3px solid; margin-left: 80px" align="center"></p>
+<p>This work has already been published and can be found <a href="https://apsjournals.apsnet.org/doi/10.1094/PDIS-11-17-1801-RE?mobileUi=0">here</a>.</p>
+</div>
+<div id="potential-center-of-origin-of-phytophthora-cinnamomi" class="section level2">
+<h2>2. <strong>Potential center of origin of <em>Phytophthora cinnamomi</em></strong></h2>
+<p><em>P. cinnamomi</em> is a globally distributed, broad host range, soil borne oomycete pathogen. The center of origin of the pathogen is still a debate. We aim at using genome wide SNP data to analyse the global population of <em>P. cinnamomi</em> to infer its potential center of origin. Our analyses demonstrates presence of two distinct clonal lineages of A2 mating types and rare occurence of A1 mating type except in Asia. Isolates from Taiwan and Vietanam showed increased diversity compare to other geopgraphic regions.</p>
+<p><img src="mexico_paper/pcinna.png" style="width:70%; border:3px solid; margin-left: 80px" align="center"></p>
+<p>This work was presented at ICPP 2018 meeting in Boston and the poster can be found <a href="https://www.researchgate.net/publication/326816966_Geographic_origin_of_the_jarrah_dieback_pathogen_Phytophthora_cinnamomi">here</a>.</p>
+</div>
+<div id="evolution-of-rxlr-effectors-in-three-phytophthora-clade1c-species" class="section level2">
+<h2>3. <strong>Evolution of RXLR effectors in three <em>Phytophthora</em> clade1c species</strong></h2>
+</div>
 </div>
 <div id="university-of-florida" class="section level1">
 <h1><strong>University of Florida</strong></h1>
@@ -251,6 +363,8 @@ $(document).ready(function () {
 
 
 
+</div>
+</div>
 
 </div>
 
