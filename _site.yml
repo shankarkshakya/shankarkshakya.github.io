@@ -1,34 +1,33 @@
-name: "My website"
-output_dir: "."
+name: My website
+output_dir: '.'
 navbar:
-  title: ""
+  title: ''
   left:
-    - text: "Home"
-      href: index.html
-    - text: "Research projects"
-      href: projects.html
-    - text: "Publications"
-      href: publications.html
-    - text: "Teaching"
-      href: teaching.html
-    - text: "Awards"
-      href: awards.html
-    - text: "Services"
-      href: services.html
-    - text: "Photos"
-      href: photos.html
-      
+  - text: Home
+    href: index.html
+  - text: Research projects
+    href: projects.html
+  - text: Publications
+    href: publications.html
+  - text: Teaching
+    href: teaching.html
+  - text: Awards and services
+    href: awards.html
+  - text: Photos
+    href: photos.html
   right:
-    - icon: fa-envelope fa-lg
-      href: contact.html
-    - icon: fa-github fa-lg
-      href: http://github.com/shankarkshakya
-    - icon: fa-twitter fa-lg
-      href: https://twitter.com/shakya
-    - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/shankar-kaji-shakya-30204455/
-
+  - icon: fa-envelope fa-lg
+    href: contact.html
+  - icon: fa-github fa-lg
+    href: http://github.com/shankarkshakya
+  - icon: fa-twitter fa-lg
+    href: https://twitter.com/shakya
+  - icon: fa-linkedin fa-lg
+    href: https://www.linkedin.com/in/shankar-kaji-shakya-30204455/
 output:
   html_document:
     theme: readable
-    css: 'styles.css'
+    css: styles.css
+    lib_dir: site_libs
+    self_contained: no
+
