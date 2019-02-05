@@ -1,7 +1,7 @@
 name: My website
 output_dir: '.'
 navbar:
-  title: ''
+  title: 'Shankar Kaji Shakya'
   left:
   - text: Home
     href: index.html
@@ -13,8 +13,6 @@ navbar:
     href: teaching.html
   - text: Awards and services
     href: awards.html
-  - text: Photos
-    href: photos.html
   right:
   - icon: fa-envelope fa-lg
     href: contact.html
