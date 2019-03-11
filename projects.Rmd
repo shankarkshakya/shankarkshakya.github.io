@@ -62,7 +62,9 @@ This work was presented at annual phytopathological society meeting 2018 in San 
 
 Most of the resequencing projects involve mapping short reads to reference genome. However some percetage of reads do not map in the process and these reads are often neglected. Our objective here is to assemble the unmapped reads and make gene calls. These genes are probably unique to the strain. 
 
+<img src="./mexico_paper/unmapped.reads.png" style="width:70%; border:3px solid; margin-left: 80px" align="center">
 
+<img src="./mexico_paper/heat_tree.png" style="width:70%; border:3px solid; margin-left: 80px" align="center">
 
 
 *********
