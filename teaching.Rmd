@@ -8,4 +8,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # **Plant pathology (page under construction)**
 
-I had the opportunity to TA plant pathology for two consecutive years at Oregon State University with [Dr. Ken Johnson](https://bpp.oregonstate.edu/people/johnson-ken)
+I had the opportunity to TA plant pathology for two consecutive years at Oregon State University with [Dr. Ken Johnson](https://bpp.oregonstate.edu/people/johnson-ken). One of the requirements of Ph.D. at OSU is students have to TA for at least two terms. 
+
+##**Checkout lab powerpoints and images from field trips.**
+
+[Lab powerpoints](./Teaching)
+
+[Field trip photographs](./Field_trips)
+
+
+

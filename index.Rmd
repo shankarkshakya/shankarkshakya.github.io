@@ -5,6 +5,9 @@
 
 <img src="Shakya_Shankar.jpg" style="width:20%; border:5px solid; margin-left: 20px" align="right">
 
+# *Recent News*
+
+I received Global experience program award from American Phytopathological Society (APS) Office of international programs (OIP). This award will be used to conduct a 3 day workshop on population genetics and data analyses in R programming language in Nepal.
 
 
 # **Little about me**
