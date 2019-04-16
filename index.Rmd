@@ -5,12 +5,14 @@
 
 <img src="Shakya_Shankar.jpg" style="width:20%; border:5px solid; margin-left: 20px" align="right">
 
+
 # *Recent News*
+
 
 I received Global experience program award from American Phytopathological Society (APS) Office of international programs (OIP). This award will be used to conduct a 3 day workshop on population genetics and data analyses in R programming language in Nepal.
 
 
-# **Little about me**
+# **About me**
 
 Hi, I am Shankar K. Shakya. I was born and raised in Nepal. I have an undergraduate degree in plant pathology from Tribhuwan University of Nepal. Follwing my graduation, I started teaching in a small college in Nepal. In 2012, I was awarded a fellowship from [University of Florida](https://plantpath.ifas.ufl.edu/) (Go Gators) and [International Potato Center](https://cipotato.org/) (CIP) to pursue a masters degree in the field of plant pathology. After comletion of my M.S degree, I moved to [Oregon State University](https://bpp.oregonstate.edu/) (Go Beavs) to pursue my Ph.D in plant pathology with focus on population genetics, genomics and bioinformatics.
 
