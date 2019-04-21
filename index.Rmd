@@ -9,7 +9,10 @@
 # *Recent News*
 
 
-I received Global experience program award from American Phytopathological Society (APS) Office of international programs (OIP). This award will be used to conduct a 3 day workshop on population genetics and data analyses in R programming language in Nepal.
+I received Global experience program award from American Phytopathological Society (APS) Office of international programs (OIP). This award will be used to conduct a 3 day workshop on population genetics and data analyses in R programming language in Nepal. <br>
+
+
+I am now one of the [elife ambassdors](https://elifesciences.org/inside-elife/a946c355/elife-community-ambassadors-243-volunteers-join-the-programme-in-2019) for 2019. 
 
 
 # **About me**
