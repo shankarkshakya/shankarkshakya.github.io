@@ -5,6 +5,8 @@ navbar:
   left:
   - text: Home
     href: index.html
+  - text: Recent News
+    href: recent.html
   - text: Research projects
     href: projects.html
   - text: Publications
