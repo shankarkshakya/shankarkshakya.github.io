@@ -8,7 +8,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # *Recent News*
 
-<img src="cgrb.PNG" style="width:40%; border:5px solid; margin-left: 20px" align="right">
+
+* I received College of agriculture sciences Global experience fund from Oregon State University. 
 
 * I received Global experience program award from American Phytopathological Society (APS) Office of international programs (OIP). This award will be used to conduct a 3 day workshop on population genetics and data analyses in R programming language in Nepal.
 
@@ -16,3 +17,5 @@ knitr::opts_chunk$set(echo = TRUE)
 * I am now one of the [elife ambassdors](https://elifesciences.org/inside-elife/a946c355/elife-community-ambassadors-243-volunteers-join-the-programme-in-2019) for 2019. 
 
 * I presented a lighting talk "What's in your unmapped reads?" in CGRB spring conference at Oregon State University. 
+
+<img src="cgrb.PNG" style="width:40%; border:5px solid; margin-left: 20px" align="right> 
