@@ -12,9 +12,9 @@ I had the opportunity to TA plant pathology for two consecutive years at Oregon 
 
 ##**Checkout lab powerpoints and images from field trips.**
 
-[Lab powerpoints](./Teaching)
+[Lab powerpoints](./Teaching/.)
 
-[Field trip photographs](./Field_trips)
+[Field trip photographs](./Field_trips/.)
 
 
 
