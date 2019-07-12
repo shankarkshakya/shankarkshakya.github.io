@@ -8,6 +8,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # *Recent News*
 
+* Read our recent publication about copy number variation in late blight pathogen *Phytophthora infestans* [here](https://www.biorxiv.org/content/10.1101/633701v1).
+
 
 * I received College of agriculture sciences Global experience fund from Oregon State University. 
 
