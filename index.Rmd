@@ -41,5 +41,5 @@ Tribhuwan University, Nepal <br>
 
 Introductory Plant Pathology (BOT 350/550): Fall 2017 <br>
 Introductory Plant Pathology (BOT 350/550): Fall 2018 <br>
-Population genetics and data analyses in R workshop, 2019, Tribhuvan University, Nepal.
+[Population genetics and data analyses in R workshop, 2019, Tribhuvan University, Nepal](https://shankarkshakya.github.io/geppopgen/).
 
