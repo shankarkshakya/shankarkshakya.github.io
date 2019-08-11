@@ -1,15 +1,16 @@
 ---
+
+
 output: 
   html_document:
     toc: yes
     toc_float: yes
     fig_width: 1
     fig_height: 1 
+
+
+
 ---
-
-
-
-
 
 # **Ph.D. research at Oregon State University**
 

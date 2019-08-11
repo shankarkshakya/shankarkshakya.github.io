@@ -8,6 +8,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # *Recent News*
 
+* I attended the annual Phytopathological Society meeting 2019 in Cleveland. This year's theme was sow, know and grow. I presented a poster on reference bias in *Phytophthora infestans*. You can find the abstract [here](https://apsnet.confex.com/apsnet/2019/meetingapp.cgi/Paper/14383) and [poster here](APS_2019_ShankarPoster.pdf)
+
 * Read our recent publication about copy number variation in late blight pathogen *Phytophthora infestans* [here](https://www.biorxiv.org/content/10.1101/633701v1).
 
 
