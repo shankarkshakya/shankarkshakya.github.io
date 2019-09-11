@@ -6,32 +6,36 @@
 ## **Publications**
 
 
-1. [**Shakya, S. K**., Larsen, M. M., Cuenca-Condoy, M. M., Lozoya-Saldaña, H., and Grünwald, N. J. 2018. Variation in genetic diversity of *Phytophthora infestans* populations in Mexico from the center of origin outwards. Plant Dis. 102:1534–1540](https://apsjournals.apsnet.org/doi/10.1094/PDIS-11-17-1801-RE?mobileUi=0)
+1. [Knaus, B. J., Tabima, J. F., **Shakya, S. K**., Judelson, H. S., and Grünwald, N. J. 2019. Genome-wide increased copy number is associated with emergence of super-fit clones of the Irish potato famine pathogen Phytophthora infestans. bioRxiv. :633701.](https://doi.org/10.1101/633701)
+
+2. [**Shakya, S. K**., Larsen, M. M., Cuenca-Condoy, M. M., Lozoya-Saldaña, H., and Grünwald, N. J. 2018. Variation in genetic diversity of *Phytophthora infestans* populations in Mexico from the center of origin outwards. Plant Dis. 102:1534–1540](https://apsjournals.apsnet.org/doi/10.1094/PDIS-11-17-1801-RE?mobileUi=0)
 
 
-2. [**Shakya, S. K**., Goss, E. M., Dufault, N. S., and van Bruggen, A. H. C.2015. Potential effects of diurnal temperature oscillations on potato late blight with special reference to climate change. Phytopathology 105:230- 238](https://apsjournals.apsnet.org/doi/pdf/10.1094/PHYTO-05-14-0132-R)
+3. [**Shakya, S. K**., Goss, E. M., Dufault, N. S., and van Bruggen, A. H. C.2015. Potential effects of diurnal temperature oscillations on potato late blight with special reference to climate change. Phytopathology 105:230- 238](https://apsjournals.apsnet.org/doi/pdf/10.1094/PHYTO-05-14-0132-R)
 
-3. [Knaus, B. J., Tabima, J. F., **Shakya, S. K**., Judelson, H. S., and Grünwald, N. J. 2019. Genome-wide increased copy number is associated with emergence of super-fit clones of the Irish potato famine pathogen Phytophthora infestans. bioRxiv. :633701.](https://doi.org/10.1101/633701)
+
 
 
 ## **Conference abstracts**
 
-3. [**Shakya, S. K**; Grünwald, N.J; Weiland, J; Fieland, V; Knaus, B.J; Jung, M.H; Maia,
+4. [**Shakya, S. K**; Knaus, B.J; and Grünwald, N.J. Assessing the bias in gene content from resequenced Phytophthora infestans strains where reads do not map to the reference genome, APS 2019, Cleveland, Ohio](https://apsnet.confex.com/apsnet/2019/meetingapp.cgi/Paper/14383)
+
+5. [**Shakya, S. K**; Grünwald, N.J; Weiland, J; Fieland, V; Knaus, B.J; Jung, M.H; Maia,
 Cristiana; Drenth, A; Guest, D.I; Liew, E.C.Y; Crane, Colin, Scanu, B and Jung, T.
 Analysis of global populations of *Phytophthora cinnamomi* suggests presence of two
 dominant clonal lineages and evidence of sex in Southeast Asia.ICPP 2018](https://apsjournals.apsnet.org/doi/pdf/10.1094/PHYTO-108-10-S1.1)
 
-4. [Knaus, B.J, Tabima, J.F, **Shakya, S. K**, Judelson, H.S, Grünwald, N.J.Copy number variation appears increased in clonal lineages over sexual lineages of *Phytophthora infestans*. ICPP, Boston, MA 2018](https://apsjournals.apsnet.org/doi/pdf/10.1094/PHYTO-108-10-S1.1)
+6. [Knaus, B.J, Tabima, J.F, **Shakya, S. K**, Judelson, H.S, Grünwald, N.J.Copy number variation appears increased in clonal lineages over sexual lineages of *Phytophthora infestans*. ICPP, Boston, MA 2018](https://apsjournals.apsnet.org/doi/pdf/10.1094/PHYTO-108-10-S1.1)
 
-5. [**Shakya, S. K**, Knaus, B.J, Tabima, J.F, Judelson, H.S, Grünwald, N.J. Presence-absence
+7. [**Shakya, S. K**, Knaus, B.J, Tabima, J.F, Judelson, H.S, Grünwald, N.J. Presence-absence
 polymorphism and balancing selection of RxLR genes in *Phytophthora* clade 1c species.
 APS 2017, San Antonio, Texas.](https://apsnet.confex.com/apsnet/2017/meetingapp.cgi/Paper/5959)
 
-6. [Knaus, B.J, Tabima, J.F, **Shakya, S. K**, Judelson, H.S, Grünwald, N.J.Genic copy number variation reveals an unexpected mosaic of varying ratios of diploidy and triploidy among isolates of *Phytophthora infestans*. APS 2017, San Antonio, Texas](https://apsnet.confex.com/apsnet/2017/meetingapp.cgi/Paper/5957)
+8. [Knaus, B.J, Tabima, J.F, **Shakya, S. K**, Judelson, H.S, Grünwald, N.J.Genic copy number variation reveals an unexpected mosaic of varying ratios of diploidy and triploidy among isolates of *Phytophthora infestans*. APS 2017, San Antonio, Texas](https://apsnet.confex.com/apsnet/2017/meetingapp.cgi/Paper/5957)
 
 
-7. [**Shakya, S. K**, Larsen, M.M, Cuenca, M.M, Lozoya-Saldaña, H, Grünwald, N.J. 2016. Microsatellite genotyping reveals high genetic diversity in *Phytophthora infestans* from Mexico. APS 2016, Tampa, Florida](https://www.apsnet.org/meetings/Documents/2016_meeting_abstracts/aps2016_172.htm)
+9. [**Shakya, S. K**, Larsen, M.M, Cuenca, M.M, Lozoya-Saldaña, H, Grünwald, N.J. 2016. Microsatellite genotyping reveals high genetic diversity in *Phytophthora infestans* from Mexico. APS 2016, Tampa, Florida](https://www.apsnet.org/meetings/Documents/2016_meeting_abstracts/aps2016_172.htm)
 
-8. [van Bruggen, A.H.C., **Shakya, S. K**., Narouei Khandan, H.A., Andrade-Piedra, J.L., Goss, E.M., and Dufault, N.S. 2015. A new mechanistic model to simulate effects of diurnal temperature oscillations on potato late blight development. APS 2015, Pasadena, California](http://www.apsnet.org/meetings/Documents/2015_meeting_abstracts/aps2015abO201.htm)
+10. [van Bruggen, A.H.C., **Shakya, S. K**., Narouei Khandan, H.A., Andrade-Piedra, J.L., Goss, E.M., and Dufault, N.S. 2015. A new mechanistic model to simulate effects of diurnal temperature oscillations on potato late blight development. APS 2015, Pasadena, California](http://www.apsnet.org/meetings/Documents/2015_meeting_abstracts/aps2015abO201.htm)
 
-9. **Shakya, S. K**, EM Goss, NS Dufault, AHC van Bruggen. 2014. Effects of diurnal temperature oscillations on potato late blight. North American Late Blight Symposium. Aug 8-9. Minneapolis
+11. **Shakya, S. K**, EM Goss, NS Dufault, AHC van Bruggen. 2014. Effects of diurnal temperature oscillations on potato late blight. North American Late Blight Symposium. Aug 8-9. Minneapolis
