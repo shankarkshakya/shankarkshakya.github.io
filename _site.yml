@@ -21,7 +21,7 @@ navbar:
   - icon: fa-twitter fa-lg
     href: https://twitter.com/shakya
   - icon: fa-linkedin fa-lg
-    href: https://www.linkedin.com/in/shankar-kaji-shakya-30204455/
+    href: https://www.linkedin.com/in/shankar-kaji-shakya-ph-d-30204455/
 output:
   html_document:
     theme: readable
