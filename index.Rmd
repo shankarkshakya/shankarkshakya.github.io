@@ -8,11 +8,12 @@
 
 # **About me**
 
-Hi, I am Shankar K. Shakya. I was born and raised in Nepal. I have an undergraduate degree in plant pathology from Tribhuwan University of Nepal. Follwing my graduation, I started teaching in a small college in Nepal. In 2012, I was awarded a fellowship from [University of Florida](https://plantpath.ifas.ufl.edu/) (Go Gators) and [International Potato Center](https://cipotato.org/) (CIP) to pursue a masters degree in the field of plant pathology. After comletion of my M.S degree, I moved to [Oregon State University](https://bpp.oregonstate.edu/) (Go Beavs) to pursue my Ph.D in plant pathology with focus on population genetics, genomics and bioinformatics.
+Hi, I am Shankar K. Shakya. I was born and raised in Nepal. I have an undergraduate degree in plant pathology from Tribhuwan University of Nepal. Follwing my graduation, I started teaching in a small college in Nepal. In 2012, I was awarded a fellowship from [University of Florida](https://plantpath.ifas.ufl.edu/) (Go Gators) and [International Potato Center](https://cipotato.org/) (CIP) to pursue a masters degree in the field of plant pathology. After comletion of my M.S degree, I moved to [Oregon State University](https://bpp.oregonstate.edu/) (Go Beavs) to pursue my Ph.D in plant pathology with focus on population genetics, genomics and bioinformatics. I graduated from Oregon State University in 2019.
 
-Currently, I am a Ph.D candidate in the department of botany and plant pathology. I am broadly interested in population genetics, genomics, computational biology and epidemiology. 
+Currently, I am a post doctolar scholar in a USDA lab in Corvallis, Oregon.
 
 # **Appointments**
+Post-doctoral scholar (2019-present): USDA, Corvallis, OR, USA <br>
 Graduate research assistant (2014-2019): Oregon State University, USA <br>
 Graduate teaching assistant (2017-2018): Oregon State University, USA <br>
 Visiting scholar (2013): International Potato Center (CIP), Ecuador <br>
@@ -22,19 +23,19 @@ Horticulture and Plant Pathology instructor (2011-2012): Tribhuvan University, N
 
 # **Education**
 
-**Ph.D. Plant Pathology (exp. summer 2019)** <br>
+**Ph.D. Plant Pathology (2019)** <br>
 Oregon State University, Corvallis, OR, USA <br>
 [Grunwald Lab, USDA, ARS](http://grunwaldlab.cgrb.oregonstate.edu/) <br>
 Advisor: [Nik Grunwald](https://www.ars.usda.gov/pacific-west-area/corvallis-or/horticultural-crops-research/people/niklaus-grunwald/)
 
 
-**M.S. Plant Pathology (2012-2014)** <br>
+**M.S. Plant Pathology (2014)** <br>
 University of Florida, Gainesville, FL, USA <br>
 Advisor: [Ariena van Bruggen](http://www.epi.ufl.edu/people/faculty-profiles/ariena-h-c-van-bruggen/) <br>
 Co-advisor: [Erica Goss](https://plantpath.ifas.ufl.edu/faculty/erica-goss/profile/) <br>
 
 
-**B.S. Plant Pathology (2006-2010)** <br>
+**B.S. Plant Pathology (2010)** <br>
 Tribhuwan University, Nepal <br> 
 
 # **Teaching**
