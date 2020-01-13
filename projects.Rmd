@@ -5,7 +5,6 @@ output:
     toc_float: yes
     fig_width: 1
     fig_height: 1 
-    theme: "default"
 ---
 
 # **Ph.D. research at Oregon State University**

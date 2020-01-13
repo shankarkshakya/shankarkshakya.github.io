@@ -7,7 +7,7 @@ navbar:
     href: index.html
   - text: Recent News
     href: recent.html
-  - text: Research projects
+  - text: Projects
     href: projects.html
   - text: Teaching
     href: teaching.html
@@ -19,7 +19,7 @@ navbar:
   - icon: fa-twitter
     href: https://twitter.com/shakya
   - icon: fa-linkedin
-    href: https://www.linkedin.com/in/shankar-kaji-shakya-ph-d-30204455/
+    href: https://www.linkedin.com/in/shankarshakya/
   - icon: fa-google
     href: https://scholar.google.com/citations?user=qlUOXgEAAAAJ&hl=en
     
