@@ -9,22 +9,23 @@ navbar:
     href: recent.html
   - text: Research projects
     href: projects.html
-  - text: Publications
-    href: publications.html
   - text: Teaching
     href: teaching.html
   - text: Awards and services
     href: awards.html
   right:
-  - icon: fa-github fa-lg
+  - icon: fa-github 
     href: http://github.com/shankarkshakya
-  - icon: fa-twitter fa-lg
+  - icon: fa-twitter
     href: https://twitter.com/shakya
-  - icon: fa-linkedin fa-lg
+  - icon: fa-linkedin
     href: https://www.linkedin.com/in/shankar-kaji-shakya-ph-d-30204455/
+  - icon: fa-google
+    href: https://scholar.google.com/citations?user=qlUOXgEAAAAJ&hl=en
+    
 output:
   html_document:
-    theme: readable
+    theme: default
     css: styles.css
     lib_dir: site_libs
     self_contained: no
