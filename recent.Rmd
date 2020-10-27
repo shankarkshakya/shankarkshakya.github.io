@@ -8,7 +8,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # *Recent News*
 
-* I started my first postdoctoral position in Dec, 2019 at Oregon State University.
+* I served as one of the panelists for a "Get your proposal funded webinar" hosted by American Phytopathological Society.
+
+* I had an opportunity to attend 4 different modules from the University of washington summer workhshops.
+
+* I received a useR diveristy scholarship 2019 from R consortium to attend R consortium in St. Louis MO (cancelled due to COVID-19).
+
+
+* I started my research associate position in Dec, 2019 at Oregon State University.
 
 * I travelled to Nepal in November to teach a "Population genetics and data analysis in R programming language workshop". This workshop was funded by American Phytopathological Society and Oregon State University.
 
